@@ -1,0 +1,45 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 49%, rgba(0,212,255,1) 100%);
+    font-family: 'Lobster', cursive;
+}
+
+#heading{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 30px;
+    color: cadetblue;
+}
+
+#objects{
+    color: lightgrey;
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+
+hr{
+    width: 200px;
+}
+
+#identify,#captureimg{
+font-size : 18px;
+}
+
+label{
+    font-size: 20px;
+}
+
+#camera,#snapshot{
+    border: 2px double lightgrey;
+    width : 300px;
+    height : 300px;
+}
+
+#objectresult,#accuracyresult{
+    font-size: 25px;
+    color: grey;
+}
+
+#V,#x{
+    color : grey
+}
